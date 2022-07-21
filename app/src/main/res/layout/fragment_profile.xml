@@ -103,17 +103,15 @@
                         </TextView>
 
                         <TextView
+                            android:id="@+id/txtvw_show_user_number"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:text="9932722735"
-                            android:textSize="16sp"
-                            android:id="@+id/txtvw_show_user_number"
-                            android:textAlignment="textEnd"
                             android:layout_marginLeft="18dp"
                             android:layout_marginRight="8dp"
+                            android:text="2540708080056"
+                            android:textAlignment="textEnd"
                             android:textColor="@color/black"
-                            >
-                        </TextView>
+                            android:textSize="16sp"></TextView>
 
                     </LinearLayout>
 

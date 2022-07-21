@@ -45,16 +45,14 @@
             </ImageView>
 
             <TextView
+                android:id="@+id/txtvw_phone_code"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
-                android:id="@+id/txtvw_phone_code"
                 android:layout_marginLeft="8dp"
-                android:text="+91"
+                android:text="+254"
                 android:textColor="@color/black"
-                android:textSize="20sp"
-                >
-            </TextView>
+                android:textSize="20sp"></TextView>
 
             <com.google.android.material.textfield.TextInputLayout
                 android:id="@+id/text_input_layout"

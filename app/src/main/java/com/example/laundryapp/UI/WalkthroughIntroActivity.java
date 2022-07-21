@@ -38,7 +38,7 @@ public class WalkthroughIntroActivity extends AppCompatActivity {
 
         dotsIndicator = findViewById(R.id.dots_wlktrgh);
         nxt_btn = findViewById(R.id.btn_wlktrgh_nxt);
-//        start_btn = findViewById(R.id.btn_wlktrgh_start);
+//       start_btn = findViewById(R.id.btn_wlktrgh_start);
         viewPager = findViewById(R.id.vwpgr_wlktrgh);
         wlktrghAdapter = new WlktrghAdapter(this, wlktrghPojos);
         viewPager.setAdapter(wlktrghAdapter);

@@ -9,5 +9,5 @@
         <item>Confirm</item>
     </string-array>
     <string name="category_name1">Wash and Fold</string>
-    <string name="Rs">&#x20B9;</string>
+    <string name="Ksh">ksh;</string>
 </resources>

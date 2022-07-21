@@ -42,15 +42,13 @@
             >
         </TextView>
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text=" 7362947261"
-            android:textSize="18sp"
-            android:id="@+id/txtvw_phone_num"
-            android:textColor="@color/black"
-            >
-        </TextView>
+            <TextView
+                android:id="@+id/txtvw_phone_num"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0708080056"
+                android:textColor="@color/black"
+                android:textSize="18sp"></TextView>
 
         </LinearLayout>
 

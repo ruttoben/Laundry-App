@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/activity_btm_navigation.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/activity_date_time.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/activity_dry_clean.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/activity_location.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/activity_login.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/activity_main.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/activity_o_t_p.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/activity_order_details.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/activity_phonenum.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/activity_reffer_earn.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/activity_signup.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/activity_wash_fold.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/fragment_kids_dry_clean.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/fragment_men.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/fragment_men_dry_clean.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/fragment_order.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/fragment_profile.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/fragment_women_iron.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/fragment_women_wash_iron.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/side_nav_header.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/single_laundry_category.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/single_loading_layout.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/single_notification_layout.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/single_signout_dialog_layout.xml" value="0.225" />
+        <entry key="..\:/Users/benki/StudioProjects/LaundryAppv.1/app/src/main/res/layout/single_wlktrgh_layout.xml" value="0.225" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
